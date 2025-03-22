@@ -24,8 +24,8 @@
       fsType = "vfat";
     };
 
-  fileSystems."/home/bauti/HDD" = 
-    { device = "/dev/disk/by-uuid/e205692c-ee33-4f11-98c0-2ca3c8b7c24a";
+  fileSystems."/home/bauti/SSD" = 
+    { device = "/dev/disk/by-uuid/1ba34452-b2ca-43b2-8676-2650e9ba53c5";
       fsType = "ext4";
       options = [ "defaults,noatime" ];
     };
