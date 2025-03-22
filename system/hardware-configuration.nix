@@ -24,7 +24,7 @@
       fsType = "vfat";
     };
 
-  fileSystems."/home/gpskwlkr/HDD" = 
+  fileSystems."/home/bauti/HDD" = 
     { device = "/dev/disk/by-uuid/44f1cc80-e2ff-4ac8-bdc3-83811ebface2";
       fsType = "ext4";
       options = [ "defaults,noatime" ];
