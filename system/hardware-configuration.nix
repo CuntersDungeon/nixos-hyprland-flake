@@ -25,7 +25,7 @@
     };
 
   fileSystems."/home/bauti/HDD" = 
-    { device = "/dev/disk/by-uuid/44f1cc80-e2ff-4ac8-bdc3-83811ebface2";
+    { device = "/dev/disk/by-uuid/e205692c-ee33-4f11-98c0-2ca3c8b7c24a";
       fsType = "ext4";
       options = [ "defaults,noatime" ];
     };
